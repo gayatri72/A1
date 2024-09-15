@@ -1,6 +1,13 @@
+
 Q1: Why might be consider using git?
 
 Answer: It is easy to collaborate using git, especially for our final project. 
 We also have access to previous versions of our code which is helpful.
 
+Q2: What field could data science be applied to? Give and Example and how it 
+might help?
+Answer: Data science can be applied to medical fields. For example, as 
+discussed in class, it can be useful to predict a disease outbreak. This can
+also help in minimizing the effects of the outbreak, taking precautionary and
+preventing measures in advance. 
 
