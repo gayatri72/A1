@@ -19,3 +19,10 @@ from one branch into another.
 Merge gives the complete history of commit merging, but in rebasing, the 
 history is altered as commits are rebased.
 
+Q4: What skills do you hope to improve during this course?
+Answer:
+I am hoping to clarify my Data Science concepts and understand them
+in depth. 
+Brush on my github skills. 
+Increase my knowledge of python. 
+
