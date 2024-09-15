@@ -1,0 +1,6 @@
+Q1: Why might be consider using git?
+
+Answer: It is easy to collaborate using git, especially for our final project. 
+We also have access to previous versions of our code which is helpful.
+
+
