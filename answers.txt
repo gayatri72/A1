@@ -11,3 +11,11 @@ discussed in class, it can be useful to predict a disease outbreak. This can
 also help in minimizing the effects of the outbreak, taking precautionary and
 preventing measures in advance. 
 
+Q3: What is the difference between merging and rebasing?
+Answer: Merging combines changes from one branch into another branch. On the
+other hand, rebasing moves changes from one branch onto another branch.
+Merge helps to merge different git branches, while rebase integrates changes
+from one branch into another.
+Merge gives the complete history of commit merging, but in rebasing, the 
+history is altered as commits are rebased.
+
